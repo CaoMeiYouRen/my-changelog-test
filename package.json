@@ -1,0 +1,62 @@
+{
+  "name": "my-changelog-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy": "rimraf dist && gulp copy",
+    "build": "npm run copy && tsc",
+    "dev": "set NODE_ENV=dev&& nodemon ./index",
+    "lint": "eslint src --fix --ext .js,.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git cz && git push",
+    "cglog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "rm": "rimraf node_modules",
+    "watch": "npm run copy && tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaoMeiYouRen/my-changelog-test.git"
+  },
+  "author": "CaoMeiYouRen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaoMeiYouRen/my-changelog-test/issues"
+  },
+  "homepage": "https://github.com/CaoMeiYouRen/my-changelog-test#readme",
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "@typescript-eslint/eslint-plugin": "^2.9.0",
+    "@typescript-eslint/parser": "^2.9.0",
+    "commitizen": "^4.0.3",
+    "commitlint": "^8.2.0",
+    "cz-conventional-changelog": "^3.0.2",
+    "eslint": "^6.7.1",
+    "gulp": "^4.0.2",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0",
+    "rimraf": "^3.0.0",
+    "standard-version": "^7.0.1",
+    "typescript": "^3.7.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "lint-staged": {
+    "src/**/.{ts,js,vue}": [
+      "npm run lint",
+      "git add"
+    ]
+  }
+}
