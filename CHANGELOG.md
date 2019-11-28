@@ -1,3 +1,17 @@
+## [1.1.2](https://github.com/CaoMeiYouRen/my-changelog-test/compare/1.1.1...1.1.2) (2019-11-28)
+
+
+### 🎫 Chores
+
+* 更新了依赖 ([9698370](https://github.com/CaoMeiYouRen/my-changelog-test/commit/9698370))
+
+
+### 📝 Documentation
+
+* 更新日志 ([3fad3ba](https://github.com/CaoMeiYouRen/my-changelog-test/commit/3fad3ba))
+
+
+
 ## [1.1.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.1.0...1.1.1) (2019-11-28)
 
 
