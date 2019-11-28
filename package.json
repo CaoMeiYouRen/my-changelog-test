@@ -9,10 +9,12 @@
     "dev": "set NODE_ENV=dev&& nodemon ./index",
     "lint": "eslint src --fix --ext .js,.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "git add . && git cz && git push",
+    "commit": "git add . && git cz",
     "cglog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0",
     "rm": "rimraf node_modules",
-    "watch": "npm run copy && tsc -w"
+    "watch": "npm run copy && tsc -w",
+    "ver": "standard-version",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -41,6 +43,7 @@
     "gulp": "^4.0.2",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
+    "release-it": "^12.4.3",
     "rimraf": "^3.0.0",
     "standard-version": "^7.0.1",
     "typescript": "^3.7.2"

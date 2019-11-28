@@ -1,15 +1,4 @@
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-
-## 1.1.0 (2019-11-28)
-
-
-### Features
-
-* 首次提交，初步创建了项目 ([1d1f1b2](https://github.com/CaoMeiYouRen/my-changelog-test/commit/1d1f1b2616c8c9b7ba39773d8e67807a164277e4))
-
-# 1.0.0 (2019-11-28)
+# [1.1.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/1d1f1b2...v1.1.0) (2019-11-28)
 
 
 ### ⚡ Performance Improvements
@@ -20,6 +9,11 @@ All notable changes to this project will be documented in this file. See [standa
 ### ✨ Features
 
 * 首次提交，初步创建了项目 ([1d1f1b2](https://github.com/CaoMeiYouRen/my-changelog-test/commit/1d1f1b2))
+
+
+### 🎫 Chores
+
+* **release:** 1.1.0 ([eb7994f](https://github.com/CaoMeiYouRen/my-changelog-test/commit/eb7994f))
 
 
 
