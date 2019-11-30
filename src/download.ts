@@ -13,7 +13,7 @@ import md5 = require('md5')
     // let url = 'https://i.pximg.net/img-master/img/2017/05/27/15/56/20/63092091_p0_master1200.jpg'
     // let url = 'https://www.google.com.hk/search?hl=zh-CN&q='
     // let url = 'https://www.pixiv.net/artworks/66081567'
-    let url = 'https://i.pximg.net/img-master/img/2017/11/29/00/01/04/66081567_p1_master1200.jpg'
+    let url = 'https://i.pixiv.cat/img-master/img/2017/11/29/00/01/04/66081567_p1_master1200.jpg'
     let ext = path.extname(url) || '.html'
     let hash = md5(url).slice(0, 8)
     let fname = hash + ext
@@ -21,9 +21,10 @@ import md5 = require('md5')
         let data = await download(url, null, {
             // proxy: 'http://127.0.0.1:8100',
             timeout: 10,
-            // headers: {
-            //     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3676.400 QQBrowser/10.4.3505.400'
-            // }
+            headers: {
+                Referer: 'https://www.pixiv.net/',
+                'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3676.400 QQBrowser/10.4.3505.400'
+            }
         })
         await fs.writeFile(path.join(__dirname, `../public/${fname}`), data)
         console.log('下载完毕')
