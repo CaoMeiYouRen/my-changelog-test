@@ -1,6 +1,5 @@
 ## [1.1.3](https://github.com/CaoMeiYouRen/my-changelog-test/compare/1.1.2...1.1.3) (2019-11-29)
 
-
 ### ✨ Features | 新功能
 
 * 新增自定义changelog配置 ([fb45ddd](https://github.com/CaoMeiYouRen/my-changelog-test/commit/fb45ddd))
