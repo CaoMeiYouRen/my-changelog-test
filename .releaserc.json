@@ -3,7 +3,8 @@
         [
             "@semantic-release/commit-analyzer",
             {
-                "config": "conventional-changelog-custom-config"
+                "preset": "cmyr-config",
+                "config": "conventional-changelog-cmyr-config"
             }
         ],
         "@semantic-release/release-notes-generator",
