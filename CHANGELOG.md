@@ -1,3 +1,28 @@
+my-changelog-test
+
+# [1.2.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.1.0...v1.2.0) (2020-02-17)
+
+
+### Bug Fixes
+
+* 修复一些细节 ([30673cf](https://github.com/CaoMeiYouRen/my-changelog-test/commit/30673cf24d375aa5aa3d609173d43b08766aebb0))
+
+
+### Features
+
+* 修改了下载器 ([077dbec](https://github.com/CaoMeiYouRen/my-changelog-test/commit/077dbecd062a13cd9f3cf3d73452dacb26c46c68))
+* 新功能 ([e6f1c17](https://github.com/CaoMeiYouRen/my-changelog-test/commit/e6f1c173384ac30677450b2e1e65770b361cd360))
+* 新功能 ([ebbd9f5](https://github.com/CaoMeiYouRen/my-changelog-test/commit/ebbd9f5029e7eeb631f07e3bc5971d104164056c))
+* 新功能+修复依赖和编译问题 ([a6e21a1](https://github.com/CaoMeiYouRen/my-changelog-test/commit/a6e21a1a606fea1b4cae77341605d59600c947bd))
+* 新增CI配置 ([58bd44e](https://github.com/CaoMeiYouRen/my-changelog-test/commit/58bd44eb722895762564361e8dff36e82dbc8128))
+* 新增功能 ([6e31aa9](https://github.com/CaoMeiYouRen/my-changelog-test/commit/6e31aa9b2fb827057274df71f03f8fc0a0990422))
+* 新增自定义changelog配置 ([fb45ddd](https://github.com/CaoMeiYouRen/my-changelog-test/commit/fb45ddd8acda2731e0f2b5e03bee4518220f170e))
+
+
+### Performance Improvements
+
+* 完成了自动化生成日志和日志中添加表情 ([3773b67](https://github.com/CaoMeiYouRen/my-changelog-test/commit/3773b676c4435b7ce9c1fdc7137e66e063eb190c))
+
 ## [1.1.6](https://github.com/CaoMeiYouRen/my-changelog-test/compare/1.1.4...v1.1.6) (2020-02-17)
 
 
@@ -78,6 +103,3 @@
 ### 🎫 Chores | 其他更新
 
 * **release:** 1.1.0 ([eb7994f](https://github.com/CaoMeiYouRen/my-changelog-test/commit/eb7994f))
-
-
-
