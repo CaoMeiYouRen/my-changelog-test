@@ -1,7 +1,4 @@
-const { promisify } = require('util')
-const dateFormat = require('dateformat')
-const readFileAsync = promisify(require('fs').readFile)
-const path = require('path')
+
 // Given a `const` variable `TEMPLATE_DIR` which points to "<semantic-release-gitmoji>/lib/assets/templates"
 
 // the *.hbs template and partials should be passed as strings of contents
@@ -10,19 +7,7 @@ const path = require('path')
 
 module.exports = {
     plugins: [
-        [
-            'semantic-release-gitmoji', {
-                releaseRules: {
-                    major: [':boom:'],
-                    minor: [':sparkles:'],
-                    patch: [
-                        ':bug:',
-                        ':ambulance:',
-                        ':lock:'
-                    ]
-                }
-            }
-        ],
+        'semantic-release-gitmoji',
         [
             "@semantic-release/changelog",
             {
