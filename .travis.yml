@@ -11,3 +11,4 @@ deploy:
     branch: master
   script:
     - npm run release
+    - npm run changelog
