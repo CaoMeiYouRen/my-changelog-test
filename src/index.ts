@@ -2,4 +2,4 @@
 // import './http'
 import './fs-extra'
 console.log('hello world')
-console.log('新功能2.0')
+console.log('新功能3.0')
