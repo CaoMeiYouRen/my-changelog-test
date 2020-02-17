@@ -7,8 +7,6 @@
 
 * 修复日志产生上的问题 ([dd2b2f8](https://github.com/CaoMeiYouRen/my-changelog-test/commit/dd2b2f84d4e2ce5a0cd6e2ace18e46a4746059d2))
 
-my-changelog-test
-
 # [1.2.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.1.0...v1.2.0) (2020-02-17)
 
 

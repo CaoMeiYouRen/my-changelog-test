@@ -3,7 +3,7 @@
         [
             "@semantic-release/commit-analyzer",
             {
-                "config": "conventional-changelog-cmyr-config"
+                "config": "cmyr-config"
             }
         ],
         "@semantic-release/release-notes-generator",
@@ -21,8 +21,10 @@
             {
                 "assets": [
                     "src",
+                    "dist",
                     "CHANGELOG.md",
-                    "package.json"
+                    "package.json",
+                    "yarn.lock"
                 ]
             }
         ]

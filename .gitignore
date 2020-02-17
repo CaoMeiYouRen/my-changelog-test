@@ -28,12 +28,11 @@ yarn-error.log*
 *.sln
 *.sw*
 
-
 .git
 ssl
 *.crt
 *.key
 updatefile
-dist
+# dist
 *.rar
 public
