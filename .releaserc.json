@@ -1,12 +1,17 @@
 {
     "plugins": [
-        "@semantic-release/commit-analyzer",
+        [
+            "@semantic-release/commit-analyzer",
+            {
+                "config": "conventional-changelog-cmyr-config"
+            }
+        ],
         "@semantic-release/release-notes-generator",
         [
             "@semantic-release/changelog",
             {
                 "changelogFile": "CHANGELOG.md",
-                "changelogTitle": "my-changelog-test"
+                "changelogTitle": "# my-changelog-test"
             }
         ],
         "@semantic-release/npm",

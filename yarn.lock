@@ -1861,10 +1861,10 @@ conventional-changelog-cli@^2.0.28:
     meow "^5.0.0"
     tempfile "^3.0.0"
 
-conventional-changelog-cmyr-config@0.1.0-beta:
-  version "0.1.0-beta"
-  resolved "https://registry.npm.taobao.org/conventional-changelog-cmyr-config/download/conventional-changelog-cmyr-config-0.1.0-beta.tgz#2f0cb62e9153aabcd62d0f1e15b24d8caa060010"
-  integrity sha1-Lwy2LpFTqrzWLQ8eFbJNjKoGABA=
+conventional-changelog-cmyr-config@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npm.taobao.org/conventional-changelog-cmyr-config/download/conventional-changelog-cmyr-config-1.0.0.tgz#28604173eeedb40bec7f512e68d80f1aa3646151"
+  integrity sha1-KGBBc+7ttAvsf1EuaNgPGqNkYVE=
 
 conventional-changelog-codemirror@^2.0.0, conventional-changelog-codemirror@^2.0.3:
   version "2.0.3"
