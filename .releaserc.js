@@ -7,7 +7,14 @@
 
 module.exports = {
     plugins: [
-        'semantic-release-gitmoji',
+        [
+            "@semantic-release/commit-analyzer",
+            {
+                "preset": "cmyr-config",
+                "config": "conventional-changelog-cmyr-config"
+            }
+        ],
+        "@semantic-release/release-notes-generator",
         [
             "@semantic-release/changelog",
             {
