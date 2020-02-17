@@ -4,4 +4,4 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // import './http'
 require("./fs-extra");
 console.log('hello world');
-console.log('新功能');
+console.log('新功能2.0');

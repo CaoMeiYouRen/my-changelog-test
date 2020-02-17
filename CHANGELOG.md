@@ -1,5 +1,17 @@
 # my-changelog-test
 
+# [1.3.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.2.1...v1.3.0) (2020-02-17)
+
+
+### Bug Fixes
+
+* 修复CI bug ([0b152a3](https://github.com/CaoMeiYouRen/my-changelog-test/commit/0b152a32e585b100b12aa1741525686a6bd8a2d9))
+
+
+### Features
+
+* 将dist文件纳入发布资源 ([20b3a32](https://github.com/CaoMeiYouRen/my-changelog-test/commit/20b3a320664cb05181f550f4ebfea3b0fe1986ec))
+
 ## [1.2.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.2.0...v1.2.1) (2020-02-17)
 
 
