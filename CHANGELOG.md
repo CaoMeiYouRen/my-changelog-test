@@ -1,5 +1,22 @@
 # my-changelog-test
 
+# [v1.4.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.2...v1.4.0) (2020-02-17)
+
+
+
+# [1.4.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.2...v1.4.0) (2020-02-17)
+
+
+### Bug Fixes
+
+* 修复CI错误 ([9957b78](https://github.com/CaoMeiYouRen/my-changelog-test/commit/9957b783a0fe9a3d4e93c003ff8f0667c3b19a40))
+* 修复问题 ([cef2727](https://github.com/CaoMeiYouRen/my-changelog-test/commit/cef27277f27fdbdfc9b9a128cefba5d203415b99))
+
+
+### Features
+
+* 新增发行日志表情 ([7826c83](https://github.com/CaoMeiYouRen/my-changelog-test/commit/7826c83dbf90ca68ef546af7b8b2f388a17c4af1))
+
 ## [1.3.2](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.1...v1.3.2) (2020-02-17)
 
 
