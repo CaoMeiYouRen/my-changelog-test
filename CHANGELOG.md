@@ -1,9 +1,10 @@
-## [1.1.5](https://github.com/CaoMeiYouRen/my-changelog-test/compare/1.1.4...1.1.5) (2020-02-15)
+## [1.1.6](https://github.com/CaoMeiYouRen/my-changelog-test/compare/1.1.4...v1.1.6) (2020-02-17)
 
 
 ### 🎫 Chores | 其他更新
 
 * 修改了生成日志的方法 ([2669271](https://github.com/CaoMeiYouRen/my-changelog-test/commit/2669271))
+* 细节上的修改 ([d759da3](https://github.com/CaoMeiYouRen/my-changelog-test/commit/d759da3))
 
 
 
