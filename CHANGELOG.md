@@ -1,5 +1,12 @@
 # my-changelog-test
 
+## [1.3.2](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.1...v1.3.2) (2020-02-17)
+
+
+### Bug Fixes
+
+* 尝试修复细节 ([2ca4f8b](https://github.com/CaoMeiYouRen/my-changelog-test/commit/2ca4f8b14363002aa271327b02818e7476d1881c))
+
 ## [1.3.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.0...v1.3.1) (2020-02-17)
 
 
