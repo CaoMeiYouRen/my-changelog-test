@@ -1,3 +1,12 @@
+# my-changelog-test
+
+## [1.3.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.0...v1.3.1) (2020-02-17)
+
+
+### Bug Fixes
+
+* 修复日志问题 ([70bbfcf](https://github.com/CaoMeiYouRen/my-changelog-test/commit/70bbfcfd835ffbdaab289fea9d0747dae71a274e))
+
 # [1.3.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.2.1...v1.3.0) (2020-02-17)
 
 
@@ -138,6 +147,3 @@
 ### 🎫 Chores | 其他更新
 
 * **release:** 1.1.0 ([eb7994f](https://github.com/CaoMeiYouRen/my-changelog-test/commit/eb7994f))
-
-
-
