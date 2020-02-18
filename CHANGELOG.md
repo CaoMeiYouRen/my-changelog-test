@@ -1,3 +1,12 @@
+# my-changelog-test
+
+## [1.4.2](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.1...v1.4.2) (2020-02-18)
+
+
+### Bug Fixes
+
+* 测试changelog效果 ([220bb35](https://github.com/CaoMeiYouRen/my-changelog-test/commit/220bb3503e2cb3e7d9da8bb93698395579a6369a))
+
 ## [1.4.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.0...v1.4.1) (2020-02-18)
 
 
@@ -211,6 +220,3 @@
 ### 🎫 Chores | 其他更新
 
 * **release:** 1.1.0 ([eb7994f](https://github.com/CaoMeiYouRen/my-changelog-test/commit/eb7994f))
-
-
-
