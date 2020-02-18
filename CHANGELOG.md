@@ -1,3 +1,21 @@
+# my-changelog-test
+
+# [v1.4.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.0...v1.4.1) (2020-02-18)
+
+
+
+## [1.4.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.0...v1.4.1) (2020-02-18)
+
+
+### Bug Fixes
+
+* 修复bug ([d5acdd1](https://github.com/CaoMeiYouRen/my-changelog-test/commit/d5acdd1f2d0cf0f4c3bddf1d16e8f7561cb83474))
+
+
+### Reverts
+
+* 回退emoji ([e18345a](https://github.com/CaoMeiYouRen/my-changelog-test/commit/e18345a0d96107af0530caf7f0377cd04ad195c4))
+
 # [1.4.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.2...v1.4.0) (2020-02-17)
 
 
@@ -192,6 +210,3 @@
 ### 🎫 Chores | 其他更新
 
 * **release:** 1.1.0 ([eb7994f](https://github.com/CaoMeiYouRen/my-changelog-test/commit/eb7994f))
-
-
-
