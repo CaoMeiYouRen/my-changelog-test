@@ -1,31 +1,56 @@
-# my-changelog-test
-
 # [1.4.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.2...v1.4.0) (2020-02-17)
 
 
-### Bug Fixes
+### ✨ Features | 新功能
 
-* 修复CI错误 ([9957b78](https://github.com/CaoMeiYouRen/my-changelog-test/commit/9957b783a0fe9a3d4e93c003ff8f0667c3b19a40))
-* 修复问题 ([cef2727](https://github.com/CaoMeiYouRen/my-changelog-test/commit/cef27277f27fdbdfc9b9a128cefba5d203415b99))
+* 新增发行日志表情 ([7826c83](https://github.com/CaoMeiYouRen/my-changelog-test/commit/7826c83))
 
 
-### Features
+### 🎫 Chores | 其他更新
 
-* 新增发行日志表情 ([7826c83](https://github.com/CaoMeiYouRen/my-changelog-test/commit/7826c83dbf90ca68ef546af7b8b2f388a17c4af1))
+* **release:** 1.4.0 [skip ci] ([8a41d85](https://github.com/CaoMeiYouRen/my-changelog-test/commit/8a41d85))
+* 修改了脚本 ([42c1fc3](https://github.com/CaoMeiYouRen/my-changelog-test/commit/42c1fc3))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复CI错误 ([9957b78](https://github.com/CaoMeiYouRen/my-changelog-test/commit/9957b78))
+* 修复问题 ([cef2727](https://github.com/CaoMeiYouRen/my-changelog-test/commit/cef2727))
+
+
 
 ## [1.3.2](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.1...v1.3.2) (2020-02-17)
 
 
-### Bug Fixes
+### 🎫 Chores | 其他更新
 
-* 尝试修复细节 ([2ca4f8b](https://github.com/CaoMeiYouRen/my-changelog-test/commit/2ca4f8b14363002aa271327b02818e7476d1881c))
+* **release:** 1.3.2 [skip ci] ([3bd4f7b](https://github.com/CaoMeiYouRen/my-changelog-test/commit/3bd4f7b))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 尝试修复细节 ([2ca4f8b](https://github.com/CaoMeiYouRen/my-changelog-test/commit/2ca4f8b))
+
+
+### 🔧 Continuous Integration | CI 配置
+
+* 修改CI配置 ([7f97af8](https://github.com/CaoMeiYouRen/my-changelog-test/commit/7f97af8))
+
+
 
 ## [1.3.1](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.3.0...v1.3.1) (2020-02-17)
 
 
-### Bug Fixes
+### 🎫 Chores | 其他更新
 
-* 修复日志问题 ([70bbfcf](https://github.com/CaoMeiYouRen/my-changelog-test/commit/70bbfcfd835ffbdaab289fea9d0747dae71a274e))
+* **release:** 1.3.1 [skip ci] ([c911c53](https://github.com/CaoMeiYouRen/my-changelog-test/commit/c911c53))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复日志问题 ([70bbfcf](https://github.com/CaoMeiYouRen/my-changelog-test/commit/70bbfcf))
+
+
 
 # [1.3.0](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.2.1...v1.3.0) (2020-02-17)
 
@@ -167,3 +192,6 @@
 ### 🎫 Chores | 其他更新
 
 * **release:** 1.1.0 ([eb7994f](https://github.com/CaoMeiYouRen/my-changelog-test/commit/eb7994f))
+
+
+
