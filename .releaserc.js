@@ -8,13 +8,15 @@
 module.exports = {
     plugins: [
         [
-            "@semantic-release/commit-analyzer",
+            "@semantic-release/commit-analyzer",//此处只导入解析规则 parserOpts
             {
-                "preset": "cmyr-config",
                 "config": "conventional-changelog-cmyr-config"
             }
         ],
-        "@semantic-release/release-notes-generator",
+        ["@semantic-release/release-notes-generator",//此处导入解析和生成规则 parserOpts, writerOpts
+            {
+                config: "conventional-changelog-cmyr-config"
+            }],
         [
             "@semantic-release/changelog",
             {
