@@ -1917,10 +1917,10 @@ conventional-changelog-cli@^2.0.28:
     meow "^5.0.0"
     tempfile "^3.0.0"
 
-conventional-changelog-cmyr-config@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npm.taobao.org/conventional-changelog-cmyr-config/download/conventional-changelog-cmyr-config-1.0.0.tgz#28604173eeedb40bec7f512e68d80f1aa3646151"
-  integrity sha1-KGBBc+7ttAvsf1EuaNgPGqNkYVE=
+conventional-changelog-cmyr-config@^1.0.1-beta:
+  version "1.0.1-beta"
+  resolved "https://registry.npmjs.org/conventional-changelog-cmyr-config/-/conventional-changelog-cmyr-config-1.0.1-beta.tgz#627b95b6f608b875ee4426e1cfc2e18c525238a6"
+  integrity sha512-vK3lusfnseqomkGmlHcmAOZxv4s7VX7Qixz1oKHQSCRkeJMNCb2/E9txTnIMBAr2eD9ctT9IRVvpY8n6r+5iew==
 
 conventional-changelog-codemirror@^2.0.0, conventional-changelog-codemirror@^2.0.3:
   version "2.0.3"
@@ -1929,7 +1929,7 @@ conventional-changelog-codemirror@^2.0.0, conventional-changelog-codemirror@^2.0
   dependencies:
     q "^1.5.1"
 
-conventional-changelog-config-spec@2.1.0, conventional-changelog-config-spec@^2.1.0:
+conventional-changelog-config-spec@2.1.0:
   version "2.1.0"
   resolved "https://registry.npm.taobao.org/conventional-changelog-config-spec/download/conventional-changelog-config-spec-2.1.0.tgz#874a635287ef8b581fd8558532bf655d4fb59f2d"
   integrity sha1-h0pjUofvi1gf2FWFMr9lXU+1ny0=
@@ -2251,6 +2251,13 @@ create-error-class@^3.0.0:
   dependencies:
     capture-stack-trace "^1.0.0"
 
+cross-env@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/cross-env/-/cross-env-7.0.0.tgz#5a3b2ddce51ec713ea58f2fb79ce22e65b4f5479"
+  integrity sha512-rV6M9ldNgmwP7bx5u6rZsTbYidzwvrwIYZnT08hSGLcQCcggofgFW+sNe7IhA1SRauPS0QuLbbX+wdNtpqE5CQ==
+  dependencies:
+    cross-spawn "^7.0.1"
+
 cross-spawn@^5.0.1:
   version "5.1.0"
   resolved "https://registry.npm.taobao.org/cross-spawn/download/cross-spawn-5.1.0.tgz?cache=0&sync_timestamp=1570439926300&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcross-spawn%2Fdownload%2Fcross-spawn-5.1.0.tgz#e8bd0efee58fcff6f8f94510a0a554bbfa235449"
@@ -2271,7 +2278,7 @@ cross-spawn@^6.0.0, cross-spawn@^6.0.5:
     shebang-command "^1.2.0"
     which "^1.2.9"
 
-cross-spawn@^7.0.0:
+cross-spawn@^7.0.0, cross-spawn@^7.0.1:
   version "7.0.1"
   resolved "https://registry.npm.taobao.org/cross-spawn/download/cross-spawn-7.0.1.tgz?cache=0&sync_timestamp=1570439926300&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcross-spawn%2Fdownload%2Fcross-spawn-7.0.1.tgz#0ab56286e0f7c24e153d04cc2aa027e43a9a5d14"
   integrity sha1-CrVihuD3wk4VPQTMKqAn5DqaXRQ=
