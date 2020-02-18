@@ -1,3 +1,12 @@
+# my-changelog-test
+
+## [1.4.3](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.2...v1.4.3) (2020-02-18)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复日志风格问题 ([6036077](https://github.com/CaoMeiYouRen/my-changelog-test/commit/6036077))
+
 ## [1.4.2](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.1...v1.4.2) (2020-02-18)
 
 
@@ -225,6 +234,3 @@
 ### 🎫 Chores | 其他更新
 
 * **release:** 1.1.0 ([eb7994f](https://github.com/CaoMeiYouRen/my-changelog-test/commit/eb7994f))
-
-
-
