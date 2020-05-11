@@ -36,3 +36,4 @@ updatefile
 # dist
 *.rar
 public
+yarn.lock

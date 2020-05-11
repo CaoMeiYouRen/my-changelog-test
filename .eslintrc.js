@@ -16,7 +16,7 @@ module.exports = {
         SharedArrayBuffer: 'readonly',
         BigInt: true,
     },
-    parser: 'typescript-eslint-parser',
+    parser: '@typescript-eslint/parser',
     parserOptions: {// JS标准
         ecmaVersion: 2018,
         sourceType: 'module',
