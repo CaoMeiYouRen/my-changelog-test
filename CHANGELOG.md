@@ -1,5 +1,12 @@
 # my-changelog-test
 
+## [1.4.5](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.4...v1.4.5) (2020-05-11)
+
+
+### 🐛 Bug 修复
+
+* 修复依赖问题 ([2e90175](https://github.com/CaoMeiYouRen/my-changelog-test/commit/2e90175))
+
 ## [1.4.4](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.3...v1.4.4) (2020-02-18)
 
 
