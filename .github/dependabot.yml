@@ -7,4 +7,4 @@ updates:
       ignore:
           - dependency-name: "got"
             versions:
-                - "> 10"
+                - ">= 10.0.0"
