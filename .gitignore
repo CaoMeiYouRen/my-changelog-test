@@ -33,7 +33,7 @@ ssl
 *.crt
 *.key
 updatefile
-# dist
+dist
 *.rar
 public
 # yarn.lock
