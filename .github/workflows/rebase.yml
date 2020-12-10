@@ -4,7 +4,7 @@ on:
     types: [labeled]
 jobs:
   rebase:
-    if: github.event.pull_request.label.name == 'dependencies'
+    if: github.event.label.name == 'dependencies'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
