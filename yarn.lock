@@ -2922,10 +2922,10 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   resolved "https://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-cmyr@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.npm.taobao.org/eslint-config-cmyr/download/eslint-config-cmyr-1.0.3.tgz#0725efc7f9446eb7a4ed85d3de3d96af033c36b8"
-  integrity sha1-ByXvx/lEbrek7YXT3j2WrwM8Nrg=
+eslint-config-cmyr@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npm.taobao.org/eslint-config-cmyr/download/eslint-config-cmyr-1.0.0.tgz#ae3f7fc71a8412a6bd360b212faad49b4eb78e5b"
+  integrity sha1-rj9/xxqEEqa9NgshL6rUm063jls=
 
 eslint-scope@^5.0.0, eslint-scope@^5.1.1:
   version "5.1.1"
@@ -8834,10 +8834,10 @@ typedarray@^0.0.6:
   resolved "https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.npm.taobao.org/typescript/download/typescript-4.0.5.tgz?cache=0&sync_timestamp=1607674735449&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypescript%2Fdownload%2Ftypescript-4.0.5.tgz#ae9dddfd1069f1cb5beb3ef3b2170dd7c1332389"
-  integrity sha1-rp3d/RBp8ctb6z7zshcN18EzI4k=
+typescript@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.npm.taobao.org/typescript/download/typescript-4.0.2.tgz?cache=0&sync_timestamp=1607674735449&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypescript%2Fdownload%2Ftypescript-4.0.2.tgz#7ea7c88777c723c681e33bf7988be5d008d05ac2"
+  integrity sha1-fqfIh3fHI8aB4zv3mIvl0AjQWsI=
 
 uglify-js@^3.1.4:
   version "3.12.1"
