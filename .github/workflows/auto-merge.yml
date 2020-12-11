@@ -28,5 +28,6 @@ jobs:
       - run: npm run build
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
-          target: patch
+          command: rebase
+          target: minor
           github-token: ${{ secrets.GH_TOKEN }}
