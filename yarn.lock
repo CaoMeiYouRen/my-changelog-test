@@ -2922,10 +2922,10 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   resolved "https://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-cmyr@1.0.3:
+eslint-config-cmyr@^1.0.0:
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.0.3.tgz#0725efc7f9446eb7a4ed85d3de3d96af033c36b8"
-  integrity sha512-CDbRHIWyg0h+xMPzA13JT0yL7i4lS7Zdn+diM17xr9V1UYCd5UBVRkAuUcDR9LqnOV5CcANXvJedEy+yawsi3Q==
+  resolved "https://registry.npm.taobao.org/eslint-config-cmyr/download/eslint-config-cmyr-1.0.3.tgz#0725efc7f9446eb7a4ed85d3de3d96af033c36b8"
+  integrity sha1-ByXvx/lEbrek7YXT3j2WrwM8Nrg=
 
 eslint-scope@^5.0.0, eslint-scope@^5.1.1:
   version "5.1.1"
@@ -6281,7 +6281,7 @@ npm-user-validate@^1.0.1:
   resolved "https://registry.npm.taobao.org/npm-user-validate/download/npm-user-validate-1.0.1.tgz#31428fc5475fe8416023f178c0ab47935ad8c561"
   integrity sha1-MUKPxUdf6EFgI/F4wKtHk1rYxWE=
 
-npm@^6.13.1, npm@^6.14.8:
+npm@^6.14.8:
   version "6.14.9"
   resolved "https://registry.npm.taobao.org/npm/download/npm-6.14.9.tgz?cache=0&sync_timestamp=1607473730772&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnpm%2Fdownload%2Fnpm-6.14.9.tgz#d2b4237562bfd95689249e2c2874700ed952ed82"
   integrity sha1-0rQjdWK/2VaJJJ4sKHRwDtlS7YI=
