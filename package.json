@@ -32,7 +32,7 @@
     "node": ">=8"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "download": "^8.0.0",
     "fs-extra": "^9.0.1",
     "got": "^9.6.0",
