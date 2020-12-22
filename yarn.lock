@@ -2383,10 +2383,10 @@ dateformat@^3.0.0, dateformat@^3.0.3:
   resolved "https://registry.npm.taobao.org/dateformat/download/dateformat-3.0.3.tgz?cache=0&sync_timestamp=1607158399590&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdateformat%2Fdownload%2Fdateformat-3.0.3.tgz#a6e37499a4d9a9cf85ef5872044d62901c9889ae"
   integrity sha1-puN0maTZqc+F71hyBE1ikByYia4=
 
-dateformat@^4.0.0:
-  version "4.3.1"
-  resolved "https://registry.npm.taobao.org/dateformat/download/dateformat-4.3.1.tgz?cache=0&sync_timestamp=1607158399590&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdateformat%2Fdownload%2Fdateformat-4.3.1.tgz#e010ca5915f0c7d47e5b4e4287dd5ecb41125a96"
-  integrity sha1-4BDKWRXwx9R+W05Ch91ey0ESWpY=
+dateformat@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-4.4.0.tgz#f31b34a60337a1dc61828f043431cea64283281c"
+  integrity sha512-DWHU66U5jrpT5Z7+m0iC9iRk9mnzRRBaVXTJ4nXxcfHb4Squ5cl93gS3DcSiJCQpw4I8ZJdxl7XnXBhIdFSKgg==
 
 debounce-fn@^4.0.0:
   version "4.0.0"
