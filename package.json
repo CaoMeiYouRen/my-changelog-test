@@ -63,7 +63,7 @@
     "conventional-recommended-bump": "^6.0.5",
     "cross-env": "^7.0.2",
     "cz-conventional-changelog": "^3.0.2",
-    "dateformat": "^4.0.0",
+    "dateformat": "^4.4.0",
     "eslint": "^7.16.0",
     "eslint-config-cmyr": "1.0.6",
     "gitmoji-cli": "^3.2.16",
