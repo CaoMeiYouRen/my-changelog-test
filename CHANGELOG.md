@@ -1,5 +1,18 @@
 # my-changelog-test
 
+## [1.4.6](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.5...v1.4.6) (2020-12-26)
+
+
+### ♻ 代码重构
+
+* 更新依赖 ([97b9aa8](https://github.com/CaoMeiYouRen/my-changelog-test/commit/97b9aa8))
+
+
+### 🐛 Bug 修复
+
+* 新增 github assets ([e5301ed](https://github.com/CaoMeiYouRen/my-changelog-test/commit/e5301ed))
+* 测试新功能 ([52b9c28](https://github.com/CaoMeiYouRen/my-changelog-test/commit/52b9c28))
+
 ## [1.4.5](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.4...v1.4.5) (2020-05-11)
 
 
