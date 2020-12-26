@@ -29,8 +29,8 @@ module.exports = {
             {
                 assets: [
                     {
-                        path: 'dist/**/*.js',
-                        label: 'dist (${nextRelease.gitTag})'
+                        path: 'dist.zip',
+                        label: 'dist.zip (${nextRelease.gitTag})'
                     }
                 ],
             }],

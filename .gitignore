@@ -35,5 +35,6 @@ ssl
 updatefile
 dist
 *.rar
+*.zip
 public
 # yarn.lock

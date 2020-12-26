@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "copy": "rimraf dist",
-    "build": "npm run copy && tsc",
+    "build": "npm run copy && tsc && node build/index.js",
     "dev": "set NODE_ENV=dev&& nodemon ./index",
     "lint": "eslint src --fix --ext .js,.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -56,6 +56,7 @@
     "commitizen": "^4.0.4",
     "commitlint": "^11.0.0",
     "compare-func": "^2.0.0",
+    "compressing": "^1.5.1",
     "conventional-changelog-cli": "^2.0.28",
     "conventional-changelog-cmyr-config": "^1.2.0",
     "conventional-changelog-custom-config": "^0.3.1",
