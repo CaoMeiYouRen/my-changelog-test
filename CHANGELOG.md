@@ -1,5 +1,12 @@
 # my-changelog-test
 
+## [1.4.7](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.6...v1.4.7) (2020-12-26)
+
+
+### 🐛 Bug 修复
+
+* 新增 dist.zip ([9fb6e52](https://github.com/CaoMeiYouRen/my-changelog-test/commit/9fb6e52))
+
 ## [1.4.6](https://github.com/CaoMeiYouRen/my-changelog-test/compare/v1.4.5...v1.4.6) (2020-12-26)
 
 
