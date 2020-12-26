@@ -25,7 +25,15 @@ module.exports = {
             }
         ],
         '@semantic-release/npm',
-        '@semantic-release/github',
+        ['@semantic-release/github',
+            {
+                assets: [
+                    {
+                        path: 'dist/**/*.js',
+                        label: 'dist (${nextRelease.gitTag})'
+                    }
+                ],
+            }],
         [
             "@semantic-release/git",
             {
