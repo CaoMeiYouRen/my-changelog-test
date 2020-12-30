@@ -2215,16 +2215,16 @@ conventional-recommended-bump@6.0.10:
     meow "^7.0.0"
     q "^1.5.1"
 
-conventional-recommended-bump@^6.0.5:
-  version "6.0.11"
-  resolved "https://registry.npm.taobao.org/conventional-recommended-bump/download/conventional-recommended-bump-6.0.11.tgz?cache=0&sync_timestamp=1604539606743&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fconventional-recommended-bump%2Fdownload%2Fconventional-recommended-bump-6.0.11.tgz#fcc39acb51d1946b63fc478737d1e52712f36356"
-  integrity sha1-/MOay1HRlGtj/EeHN9HlJxLzY1Y=
+conventional-recommended-bump@^6.0.12:
+  version "6.0.12"
+  resolved "https://registry.yarnpkg.com/conventional-recommended-bump/-/conventional-recommended-bump-6.0.12.tgz#6b8b948c5630866c5c952e87f6cf48cb9fbe69b6"
+  integrity sha512-4vZ1+Ps5CIF/3cTWn/XElw3/PeY58ty1n4J8k3rNK9XVO8Q1IfV4DK8SBUTThNy846FEIEveneJduHSIAaRy+w==
   dependencies:
     concat-stream "^2.0.0"
     conventional-changelog-preset-loader "^2.3.4"
     conventional-commits-filter "^2.0.7"
     conventional-commits-parser "^3.2.0"
-    git-raw-commits "2.0.0"
+    git-raw-commits "^2.0.8"
     git-semver-tags "^4.1.1"
     meow "^8.0.0"
     q "^1.5.1"
@@ -3785,15 +3785,15 @@ git-raw-commits@2.0.0:
     split2 "^2.0.0"
     through2 "^2.0.0"
 
-git-raw-commits@^2.0.0:
-  version "2.0.8"
-  resolved "https://registry.npm.taobao.org/git-raw-commits/download/git-raw-commits-2.0.8.tgz?cache=0&sync_timestamp=1604539606583&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fgit-raw-commits%2Fdownload%2Fgit-raw-commits-2.0.8.tgz#65cef91ae8307281b6ee31ca481fa1164e166156"
-  integrity sha1-Zc75GugwcoG27jHKSB+hFk4WYVY=
+git-raw-commits@^2.0.0, git-raw-commits@^2.0.8:
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/git-raw-commits/-/git-raw-commits-2.0.9.tgz#5cbc707a615cb77b71e687f8a1ee54af46208b22"
+  integrity sha512-hSpNpxprVno7IOd4PZ93RQ+gNdzPAIrW0x8av6JQDJGV4k1mR9fE01dl8sEqi2P7aKmmwiGUn1BCPuf16Ae0Qw==
   dependencies:
     dargs "^7.0.0"
     lodash.template "^4.0.2"
     meow "^8.0.0"
-    split2 "^2.0.0"
+    split2 "^3.0.0"
     through2 "^4.0.0"
 
 git-remote-origin-url@^2.0.0:
@@ -7402,7 +7402,7 @@ read@1, read@~1.0.1, read@~1.0.7:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
-"readable-stream@2 || 3", readable-stream@3, readable-stream@^3.0.2, readable-stream@^3.6.0:
+"readable-stream@2 || 3", readable-stream@3, readable-stream@^3.0.0, readable-stream@^3.0.2, readable-stream@^3.6.0:
   version "3.6.0"
   resolved "https://registry.npm.taobao.org/readable-stream/download/readable-stream-3.6.0.tgz#337bbda3adc0706bd3e024426a286d4b4b2c9198"
   integrity sha1-M3u9o63AcGvT4CRCaihtS0sskZg=
@@ -8185,6 +8185,13 @@ split2@^2.0.0:
   integrity sha1-GGsldbz4PoW30YRldWI47k7kJJM=
   dependencies:
     through2 "^2.0.2"
+
+split2@^3.0.0:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/split2/-/split2-3.2.2.tgz#bf2cf2a37d838312c249c89206fd7a17dd12365f"
+  integrity sha512-9NThjpgZnifTkJpzTZ7Eue85S49QwpNhZTq6GRJwObb6jnLFNGB7Qm73V5HewTROPyxD0C29xqmaI68bQtV+hg==
+  dependencies:
+    readable-stream "^3.0.0"
 
 split2@~1.0.0:
   version "1.0.0"
