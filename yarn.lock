@@ -2189,10 +2189,10 @@ conventional-recommended-bump@6.0.11:
     meow "^8.0.0"
     q "^1.5.1"
 
-conventional-recommended-bump@^6.0.12:
-  version "6.0.12"
-  resolved "https://registry.yarnpkg.com/conventional-recommended-bump/-/conventional-recommended-bump-6.0.12.tgz#6b8b948c5630866c5c952e87f6cf48cb9fbe69b6"
-  integrity sha512-4vZ1+Ps5CIF/3cTWn/XElw3/PeY58ty1n4J8k3rNK9XVO8Q1IfV4DK8SBUTThNy846FEIEveneJduHSIAaRy+w==
+conventional-recommended-bump@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/conventional-recommended-bump/-/conventional-recommended-bump-6.1.0.tgz#cfa623285d1de554012f2ffde70d9c8a22231f55"
+  integrity sha512-uiApbSiNGM/kkdL9GTOLAqC4hbptObFo4wW2QRyHsKciGAfQuLU1ShZ1BIVI/+K2BE/W1AWYQMCXAsv4dyKPaw==
   dependencies:
     concat-stream "^2.0.0"
     conventional-changelog-preset-loader "^2.3.4"
